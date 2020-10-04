@@ -48,6 +48,13 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
+		5E80ED7725298AD4008BCD17 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
 		ADB689462326708D006D4E2B = {
 			isa = PBXGroup;
 			children = (
@@ -67,6 +74,7 @@
 		ADB689512326708D006D4E2B /* Tipsy */ = {
 			isa = PBXGroup;
 			children = (
+				5E80ED7725298AD4008BCD17 /* Documentation */,
 				ADB689522326708D006D4E2B /* AppDelegate.swift */,
 				ADB689542326708D006D4E2B /* SceneDelegate.swift */,
 				5E542F20250EC82200E0B70A /* Controllers */,
